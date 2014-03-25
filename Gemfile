@@ -45,7 +45,7 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'cert2', :git => 'https://github.com/jessethebuilder/cert2'
-#gem 'farm_tools', :git => 'https://github.com/jessethebuilder/farm_tools'
+gem 'farm_tools', :git => 'https://github.com/jessethebuilder/farm_tools'
 gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'

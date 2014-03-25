@@ -6,13 +6,6 @@ GIT
       pg
       rails (~> 4.0.4)
 
-GIT
-  remote: https://github.com/jessethebuilder/farm_tools
-  revision: 4fff5aed2d5c97ddba3bd7b506ff6cd281677267
-  specs:
-    farm_tools (0.0.1)
-      rails
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -168,7 +161,6 @@ DEPENDENCIES
   cert2!
   coffee-rails (~> 4.0.0)
   devise
-  farm_tools!
   jbuilder (~> 1.2)
   jquery-rails
   omniauth
